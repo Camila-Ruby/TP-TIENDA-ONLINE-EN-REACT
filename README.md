@@ -32,13 +32,13 @@ Para ejecutar el proyecto localmente, seguir estos pasos:
 1. Clonar el repositorio:
 
    ```bash
-   git clone URL_DEL_REPOSITORIO
+   git clone https://github.com/Camila-Ruby/TP-TIENDA-ONLINE-EN-REACT.git
    ```
 
 2. Ingresar a la carpeta del proyecto:
 
    ```bash
-   cd the-book-nook
+   cd TP-TIENDA-ONLINE-EN-REACT
    ```
 
 
